@@ -22,3 +22,5 @@ Repositório utilizado no treinamento de Git básico
 * Faça as alterações
 * Suba as alterações para o Github
 * Faça um Pull Request
+
+* Sergio alterando
