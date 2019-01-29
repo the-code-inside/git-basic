@@ -2,3 +2,6 @@
 
 Repositório utilizado no treinamento de Git básico
 
+
+
++ espaços
